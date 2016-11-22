@@ -2,6 +2,7 @@
  * Sample React Native App
  * https://github.com/facebook/react-native
  * @flow
+ * this is my very first step in react native
  */
 
 import React, { Component } from 'react';
